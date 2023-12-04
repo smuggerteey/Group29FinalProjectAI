@@ -94,6 +94,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Link to Video
 
-Please find a video demonstration of the Chronic Disease Prediction System [here](insert-video-link).
+Please find a video demonstration of the Chronic Disease Prediction System 
+
+https://youtu.be/YnZnh963PLc
 
 
