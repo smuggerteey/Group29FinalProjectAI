@@ -48,6 +48,6 @@ The integrated chatbot serves as an interactive medium for users to engage with 
 
 Please find a video on how our system works below:
 
-[![F&T-MedBot & ChronicDiseasePredictionSystem](https://img.youtube.com/vi/ABC12345678/0.jpg)]([https://www.youtube.com/watch?v=ABC12345678](https://youtu.be/YnZnh963PLc)https://youtu.be/YnZnh963PLc)
+[![F&T-MedBot & ChronicDiseasePredictionSystem](https://img.youtube.com/vi/ABC12345678/0.jpg)](https://youtu.be/YnZnh963PLc)https://youtu.be/YnZnh963PLc)
 
 
